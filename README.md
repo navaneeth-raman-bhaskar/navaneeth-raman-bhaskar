@@ -204,7 +204,7 @@
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:10px">
   </a>
 
- <a href="mailto:navaneeth@webandcrafts.in"> 
+ <a href="mailto:navaneethbhasuram@gmail.com"> 
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:10px">
   </a>
 
@@ -230,5 +230,7 @@
 
 Are you impressed by my works?!
 
+<a href="https://buymeacoffee.com/navaneethv">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+</a
              
