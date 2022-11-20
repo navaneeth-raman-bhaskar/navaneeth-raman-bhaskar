@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/32593901?v=4" alt="👋 Hi there! I'm Navaneeth" width=50%/>
 <h1 align="center"> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Navaneeth Raman Bhaskar</h1>
-<h3 align="center">Project Lead | Software Architect | Born Leader</h3>
+<h3 align="center">Technical Lead | Software Architect | Born Leader</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=navaneeth-raman-bhaskar)
 [![Github](https://img.shields.io/github/followers/navaneeth-raman-bhaskar?label=Follow&style=social)](https://github.com/navaneeth-raman-bhaskar)
