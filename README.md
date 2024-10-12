@@ -4,7 +4,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=navaneeth-raman-bhaskar)
 [![Github](https://img.shields.io/github/followers/navaneeth-raman-bhaskar?label=Follow&style=social)](https://github.com/navaneeth-raman-bhaskar)
-[![Navaneeth StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8886489)](https://stackoverflow.com/users/8886489/navaneeth-raman-bhaskar)
+[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/8886489?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)](https://stackoverflow.com/users/8886489/navaneeth-raman-bhaskar)
 
 ### 🧰 Languages and Tools:
 <div> 
