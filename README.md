@@ -1,5 +1,11 @@
-<img src="https://avatars.githubusercontent.com/u/32593901?v=4" alt="👋 Hi there! I'm Navaneeth" width=50%/>
-<h1 align="center"> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Navaneeth Raman Bhaskar</h1>
+<div class="container" style="position: relative; width: 100%; max-width: 1024px; height: auto;">
+    <img src="./assets/me.jpg" alt="Conference Image" style="width: 100%; height: auto; display: block;">
+    <!-- Animated text over the image -->
+    <div class="animated-text" style="position: absolute; top: 20%; left: 10%; font-size: 40px; font-family: 'Arial', sans-serif; font-weight: 600; color: white; text-shadow: 2px 2px 8px rgba(0, 0, 0, 1); white-space: nowrap; overflow: hidden; animation: movingText 10s linear infinite;">
+        <p align="center" style="color: antiquewhite; margin: 0;"> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <strong style="color:white">Navaneeth</strong> here!</p>
+    </div>
+</div>
+
 <h3 align="center">Technical Lead | Software Architect | Born Leader</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=navaneeth-raman-bhaskar)
